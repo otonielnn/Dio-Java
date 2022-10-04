@@ -1,2 +1,2 @@
-# Dio-Java
-Estudos, Desafios e Projeto feitos na plataforma DIO
+# DIO Trilha Java
+  * Estudos, Projetos e Desafios de códigos na linguagem java
