@@ -6,8 +6,8 @@ Estudos de Java na [DIO](web.dio.me)
 - Ambiente de Desenvolvimento Java ✅
 - Aprendendo a Sintaxe Java ✅
 - Introdução e Estruturas Condicionais com Java ✅
-- Estruturas de Repetição em Java
-- Java e Tratamento de Exceções
+- Estruturas de Repetição em Java ✅
+- Java e Tratamento de Exceções ✅
 - Debugging Java ✅
 - Fundamentos da Programação Orientada a Objetos com Java ✅
 - Pilares da Programação Orientada a Objetos em Java ✅
