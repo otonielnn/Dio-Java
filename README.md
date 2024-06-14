@@ -26,4 +26,4 @@ Estudos de Java na [DIO](web.dio.me)
 
 - [Conta Bancária](https://github.com/otonielnn/Dio-Java/tree/main/DesafioDeProjeto/ContaBanco)
 - [Contador](https://github.com/otonielnn/Dio-Java/tree/main/DesafioDeProjeto/DesafioControleFluxo)
-- [iPhoneModel]()
+- [iPhoneModel](https://github.com/otonielnn/Dio-Java/tree/main/DesafioDeProjeto/iPhoneModel)
