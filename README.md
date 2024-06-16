@@ -11,9 +11,9 @@ Estudos de Java na [DIO](web.dio.me)
 - Debugging Java ✅
 - Fundamentos da Programação Orientada a Objetos com Java ✅
 - Pilares da Programação Orientada a Objetos em Java ✅
-- Conhecendo Collections Java 
-- Ganhando Produtividade com Stream API
-- Gerenciamento de Dependências e Build em Java com Maven
+- Conhecendo Collections Java ✅
+- Ganhando Produtividade com Stream API ✅
+- Gerenciamento de Dependências e Build em Java com Maven ✅
 - Introdução a Testes de Software
 - Testes Unitários com JUnit
 - Desenvolvendo Testes Utilizando Mockito
