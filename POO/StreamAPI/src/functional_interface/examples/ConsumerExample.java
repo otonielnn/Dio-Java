@@ -16,11 +16,8 @@ public class ConsumerExample {
 
         numeros.stream().forEach(imprimirNumeroPar);
 
-        //
-        numeros.stream().forEach(n -> {
-            if (n % 2 == 0) {
-                System.out.println(n);
-            }
-        });
+        numeros.stream()
+        .filter((n) -> n % 2 == 0)
+        .forEach(System.out::println);
     }
 }
