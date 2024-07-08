@@ -15,11 +15,11 @@ Estudos de Java na [DIO](web.dio.me)
 - Ganhando Produtividade com Stream API ✅
 - Gerenciamento de Dependências e Build em Java com Maven ✅
 - Introdução a Testes de Software ✅
-- Testes Unitários com JUnit
+- Testes Unitários com JUnit ✅
 - Desenvolvendo Testes Utilizando Mockito
 - Imersão no Spring Framework com Spring Boot ✅
 - Criando uma API REST Documentada com Spring Web e Swagger ✅
-- Adicionando Segurança a uma API REST com Spring Security
+- Adicionando Segurança a uma API REST com Spring Security ✅
 
 
 ## Projetos
